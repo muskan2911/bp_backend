@@ -6,5 +6,4 @@ matplotlib
 scipy
 gunicorn
 wheel
-setuptools>=65.0.0
-numpy>=1.24.0
+numpy
