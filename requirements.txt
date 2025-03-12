@@ -1,9 +1,9 @@
-numpy==1.24.3
-tensorflow==2.13.0
-opencv-python==4.11.0.86
-flask==3.1.0
-flask-cors==5.0.1
-matplotlib==3.7.2
-scipy==1.15.2
+numpy
+tensorflow
+opencv-python
+flask
+flask-cors
+matplotlib
+scipy
 gunicorn 
 setuptools
