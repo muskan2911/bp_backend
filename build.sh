@@ -2,8 +2,6 @@
 # Exit immediately if a command exits with a non-zero status
 set -o errexit  
 
-# Navigate to the backend directory
-cd backend  
 
 # Create and activate a virtual environment (optional but recommended)
 python -m venv venv
